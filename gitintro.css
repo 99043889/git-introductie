@@ -4,11 +4,11 @@ body {
 }
 
 #me {
-	width: 560px;
-	height: 400px;
     padding: 10px;
     border: 1px solid black;
     border-radius: 5px;
+    background-image: url("dope.jpg");
+    background-size: 560px 400px;
 }
 
 #main {
