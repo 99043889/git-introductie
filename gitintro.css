@@ -1,5 +1,19 @@
 body {
-	width: 700px;
-    font-family: helvetica, sans-serif;
+    font-family: sans-serif;
+    background-color: #fcf4e8;
 }
 
+#me {
+	width: 560px;
+	height: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#main {
+	margin: auto;
+	padding: auto;
+	text-align: center;
+	width: 900px;
+}
